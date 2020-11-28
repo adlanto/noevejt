@@ -24,4 +24,4 @@ The more interesting functionality of the tracker is the possibility to mine dat
 - Make your analysises and become a better competitor 
 
 ## Installation
-I can not provide you the required templates here because first of they are copyright protected and second, more importantly, I do not want everyone to be able to use this tool. Again, this shall just give data lovers a playground. Thats the reason for not naming the used templates either. If you are really interested, you will find out from the code by yourself.
+I can not provide you the required templates here because first of they are copyright protected and second, more importantly, I do not want everyone to be able to use this tool. Again, this shall just give data lovers a playground. Thats the reason for not naming the used templates either.
