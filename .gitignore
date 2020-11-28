@@ -1,0 +1,15 @@
+.idea/
+*__pycache__/
+dist/
+log/
+build/
+main.spec
+noevejt.spec
+noeve_jungle_tracker.spec
+/dist/dist.7z
+/audios/jungler_name.mp3
+/champions_map_templates
+/champions_original_squares
+/champions_tab_templates
+/special_templates
+/templates
